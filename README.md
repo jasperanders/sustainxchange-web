@@ -1,6 +1,6 @@
 # sustainXchange.org
 
-This is the sourc code for sustainXchange.org.
+This is the source code for sustainXchange.org.
 
 ## Getting Started
 
